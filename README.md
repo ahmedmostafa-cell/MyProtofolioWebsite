@@ -1,7 +1,7 @@
 
-# Dating App
+# MyProtofolio Website
 
-Find your perfect match with our Dating App!
+Take a Quick Tour About Ny Proficiencies!
 
 ## Table of Contents
 
@@ -16,17 +16,10 @@ Find your perfect match with our Dating App!
 
 ## Introduction
 
-Welcome to our Dating App, where you can connect with potential partners, chat, and build meaningful relationships. Whether you're looking for love, friendship, or casual dating, our app has you covered.
+Welcome to MyProtofolio Website, where you can Find Brief Summary About My Proficiencies , Experinces , Education.
 
 ## Features
 
-- User profile creation
-- Match recommendations
-- Real-time messaging
-- Photo sharing
-- Location-based search
-- Private and secure messaging
-- Swipe to like/dislike profiles
 - User-friendly interface
 
 ## Getting Started
@@ -43,18 +36,14 @@ Before using the app, make sure you have the following:
 
 ### Installation
 
-1. Open [Website](https://habibaahmedm-002-site1.atempurl.com)
- and create your user profile.
-2. Start swiping and matching with potential dates!
+1. Open [Website](https://habibaahmedm-002-site13.atempurl.com)
+
+2. Start exploring my career!
 
 ## Usage
 
-Our Dating App is designed to be intuitive and easy to use. Here's how you can make the most of it:
+MyProtofolio Website is designed to be intuitive and easy to use. Here's how you can make the most of it:
 
-- **Profile Creation:** Complete your profile with photos and a catchy bio.
-- **Matching:** Swipe right to like a profile, or swipe left to pass. When you and another user both like each other, it's a match!
-- **Messaging:** Initiate conversations with your matches and get to know each other better.
-- **Privacy:** Your data is secure, and your location information is kept private.
 
 ## Contributing
 
