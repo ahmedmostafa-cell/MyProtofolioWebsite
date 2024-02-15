@@ -24,7 +24,7 @@ Welcome to MyProtofolio Website, where you can Find Brief Summary About My Profi
 
 ## Getting Started
 
-To get started with our Dating App, follow these steps:
+To get started with MyProtofolio Website, follow these steps:
 
 ### Prerequisites
 
