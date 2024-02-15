@@ -42,7 +42,7 @@ Before using the app, make sure you have the following:
 
 ## Usage
 
-MyProtofolio Website is designed to be intuitive and easy to use. Here's how you can make the most of it:
+MyProtofolio Website is designed to be intuitive and easy to use.
 
 
 ## Contributing
